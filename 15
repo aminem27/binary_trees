@@ -1,0 +1,7 @@
+[master 1d71827] task11--
+ 5 files changed, 113 insertions(+)
+ create mode 100644 11-binary_tree_size.c
+ create mode 100644 12-binary_tree_leaves.c
+ create mode 100644 13-binary_tree_nodes.c
+ create mode 100644 14-binary_tree_balance.c
+ create mode 100644 15-binary_tree_is_full.c
